@@ -1,0 +1,33 @@
+body{
+    background-color: darksalmon;
+    background-image: url(./images/15841789_v933-audi-41.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+
+    text-align: center;
+}
+
+h1{
+    text-align: center;
+    color: rgb(182, 116, 179);
+    text-shadow: 0px 0px 25px rgb(255, 255, 255);
+    font-size: 50px;
+}
+
+p{
+    font-size: 28px;
+}
+
+button{
+    font-size: 20px;
+    padding: 10px 20px ;
+    border: none;
+    background-color: rgb(173, 134, 209);
+    color: white;
+    border-radius: 30px;
+    margin-top: 20px;
+}
+
+button:hover{
+    background-color: rgb(83, 28, 146);
+}
